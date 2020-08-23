@@ -14,6 +14,6 @@ _if you wonder who they're, Fujiwara Chika and its Loona's Chuu_
   - making automenfess bot on twitter built with python 🐍
   - and maintaining its [🕸 web app](https://mockthistweet-menfess-web.herokuapp.com) / [📂 repo](https://github.com/fadhluu/mockthistweet-menfess-web)
 
-- 🌱 I’m currently learning ReactJS / VueJS and anything bout JavaScript
+- 🌱 I’m currently learning ReactJS / VueJS or anything bout JavaScript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhluu&show_icons=true)
