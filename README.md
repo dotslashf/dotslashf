@@ -7,6 +7,6 @@
 
 _if you wonder who they're, it's Fujiwara Chika and Loona's Chuu_
 
-- 🌱 I’m currently anything bout JavaScript
+- 🌱 I’m currently learn anything about JavaScript
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fadhluu&show_icons=true)
