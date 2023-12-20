@@ -3,7 +3,8 @@ Hello 👋 you can call me fadhlu, just casual programmer🕸️/gamer🎮 🇮�
 - 🚀 Reach me on [Email](mailto:fadhlurahman.i@gmail.com)/[LinkedIn](https://www.linkedin.com/in/faadhlurahman/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6w%2Fl8P%2BQS0uu0i1o%2BtbVbA%3D%3D)
 - 💡 I'd love making side projects and forgot about it, you can see some of my side projects here.
 - 💭 Now i'm focusing on Back End related stuff.
-- 🌱 While currently learning about JavaScript/TypeScript, ReactJS, and Flutter.
+- 🌱 Currently grinding on JavaScript/TypeScript.
+- 📖 I want to learn next Rust 🦀 / Go 🌀
 
 ### Tools that i used:
 
